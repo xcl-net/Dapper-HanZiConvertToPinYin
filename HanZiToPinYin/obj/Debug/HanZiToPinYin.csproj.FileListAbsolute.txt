@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\HanZiToPinYin\HanZiToPinYin\bin\Debug\HanZiToPinYin.exe.config
+C:\Users\Administrator\Desktop\HanZiToPinYin\HanZiToPinYin\bin\Debug\HanZiToPinYin.exe
+C:\Users\Administrator\Desktop\HanZiToPinYin\HanZiToPinYin\bin\Debug\HanZiToPinYin.pdb
+C:\Users\Administrator\Desktop\HanZiToPinYin\HanZiToPinYin\obj\Debug\HanZiToPinYin.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HanZiToPinYin\HanZiToPinYin\obj\Debug\HanZiToPinYin.exe
+C:\Users\Administrator\Desktop\HanZiToPinYin\HanZiToPinYin\obj\Debug\HanZiToPinYin.pdb
+C:\Users\Administrator\Desktop\HanZiToPinYin\HanZiToPinYin\bin\Debug\Dapper.dll
+C:\Users\Administrator\Desktop\HanZiToPinYin\HanZiToPinYin\bin\Debug\Dapper.xml
